@@ -1,0 +1,1 @@
+Hello my pigs! On https://solana.com/summercamp you can enter your mail, I made a script that will do everything for you! Installation is extremely easy, leave your mail on file, install the dependencies and run app.py.
